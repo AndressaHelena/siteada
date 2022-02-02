@@ -62,12 +62,13 @@ a{
   color: #ffff;
   text-decoration: underline;
   font-weight: normal;
-  
+
 }
 .principal li{
   display: inline-block;
   line-height: 2.5;
   margin: 0 89px;
+
 }
 button{
 background: #41f341;
